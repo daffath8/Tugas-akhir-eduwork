@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User failed to login with wrong pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d0479aa-f817-4699-8731-46bac60e540f</testCaseGuid>
+</TestCaseEntity>

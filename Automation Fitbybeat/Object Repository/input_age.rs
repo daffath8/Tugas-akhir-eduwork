@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_age</name>
+   <tag></tag>
+   <elementGuidId>3358d9ad-c1ea-4a41-9024-4c33b51c4cbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name=&quot;age&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>height</value>
+      <webElementGuid>3c42ad2f-777d-41a4-ab6b-7da93f691fad</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
